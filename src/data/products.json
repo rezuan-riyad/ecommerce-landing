@@ -1,0 +1,86 @@
+[
+  {
+    "Smart Phones": [
+      {
+        "id": 1,
+        "title": "Samsung Galaxy Note 20",
+        "price": 300,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvYjkxMmI4Y2I5OWQzLTc4YmNhMzE5MDJmNS0yLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ImF1dG8iLCJoZWlnaHQiOiJhdXRvIiwiZml0IjoiY29udGFpbiJ9LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwiZmxhdHRlbiI6dHJ1ZSwianBlZyI6eyJxdWFsaXR5IjoxMDB9fX0="
+      },
+      {
+        "id": 2,
+        "title": "Samsung Galaxy J1",
+        "price": 430,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvOTM3ZTc0YmI0Y2FkLTExYWZiNGJlODE0OS0xLnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ImF1dG8iLCJoZWlnaHQiOiJhdXRvIiwiZml0IjoiY29udGFpbiJ9LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwiZmxhdHRlbiI6dHJ1ZSwianBlZyI6eyJxdWFsaXR5IjoxMDB9fX0="
+      },
+      {
+        "id": 3,
+        "title": "Samsung Galaxy S20",
+        "price": 350,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvMDk0MDM2MDIxYTA3LWIzMTc3OWRhOWYwMS03LnBuZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ImF1dG8iLCJoZWlnaHQiOiJhdXRvIiwiZml0IjoiY29udGFpbiJ9LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwiZmxhdHRlbiI6dHJ1ZSwianBlZyI6eyJxdWFsaXR5IjoxMDB9fX0="
+      },
+      {
+        "id": 4,
+        "title": "Samsung Galaxy S21",
+        "price": 500,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvN2U0ZWNmNmI4M2E2LXdoYXRzYXBwLWltYWdlLTIwMjEtMDQtMjYtYXQtMzE3MjEtcG0uanBlZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ImF1dG8iLCJoZWlnaHQiOiJhdXRvIiwiZml0IjoiY29udGFpbiJ9LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwiZmxhdHRlbiI6dHJ1ZSwianBlZyI6eyJxdWFsaXR5IjoxMDB9fX0="
+      }
+    ]
+  },
+  {
+    "Motor Bikes": [
+      {
+        "id": 5,
+        "title": "TVS Apache RTR-160CC",
+        "price": 1500,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJ3YXRlcm1hcmtlZC8yMDE5LTA2LTE3XzExMjIxMy42MTY5NTdUVlNfQXBhY2hlX1JUUi0xNjBDQ19TaW5nbGVfRGlzY19fNC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiJhdXRvIiwiaGVpZ2h0IjoiYXV0byIsImZpdCI6ImNvbnRhaW4ifSwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sImZsYXR0ZW4iOnRydWUsImpwZWciOnsicXVhbGl0eSI6MTAwfX19"
+      },
+      {
+        "id": 6,
+        "title": "TVS Radon 110cc",
+        "price": 1400,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvMTdmZDgwNmE4YTM2LWlmZ3Vkc2ZnaGZnaC5qcGciLCJlZGl0cyI6eyJyZXNpemUiOnsid2lkdGgiOiJhdXRvIiwiaGVpZ2h0IjoiYXV0byIsImZpdCI6ImNvbnRhaW4ifSwiYmFja2dyb3VuZCI6eyJyIjoyNTUsImciOjI1NSwiYiI6MjU1LCJhbHBoYSI6MX0sImZsYXR0ZW4iOnRydWUsImpwZWciOnsicXVhbGl0eSI6MTAwfX19"
+      },
+      {
+        "id": 7,
+        "title": "RTR Racing Version",
+        "price": 1600,
+        "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/0fe2aa009913-apache-rtr.png"
+      },
+      {
+        "id": 8,
+        "title": "TVS Max 20",
+        "price": 1350,
+        "image": "https://df17fp68uwcso.cloudfront.net/eyJidWNrZXQiOiJtZWRpYS5ldmFseS5jb20uYmQiLCJrZXkiOiJtZWRpYS9pbWFnZXMvZTczMTZhMmY5YTViLTE5LmpwZyIsImVkaXRzIjp7InJlc2l6ZSI6eyJ3aWR0aCI6ImF1dG8iLCJoZWlnaHQiOiJhdXRvIiwiZml0IjoiY29udGFpbiJ9LCJiYWNrZ3JvdW5kIjp7InIiOjI1NSwiZyI6MjU1LCJiIjoyNTUsImFscGhhIjoxfSwiZmxhdHRlbiI6dHJ1ZSwianBlZyI6eyJxdWFsaXR5IjoxMDB9fX0="
+      }
+    ]
+  },
+  {
+    "Fashion": [
+      {
+        "id": 9,
+        "title": "Cotton Long Sleve",
+        "price": 100,
+        "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/b6a06eade782-242.png"
+      },
+      {
+        "id": 10,
+        "title": "Cotton T-Shirt",
+        "price": 80,
+        "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/3d5e52a119c7-12.png"
+      },
+      {
+        "id": 11,
+        "title": "Combo of Cotton T-shirt",
+        "price": 130,
+        "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/2270f0d5982c-combo-of-cotton-short-sleeve-polo-for-men-multi-color.png"
+      },
+      {
+        "id": 12,
+        "title": "Casual Shoe",
+        "price": 60,
+        "image": "https://s3-ap-southeast-1.amazonaws.com/media.evaly.com.bd/media/images/74acd249a928-74.jpg"
+      }
+    ]
+  }
+]
