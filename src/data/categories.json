@@ -1,0 +1,123 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "title": "Machineries & Accessories",
+      "subCategories": [
+        "Agricultural Machinaries & Equipments",
+        "Apparel & Texttile Machinaries",
+        "Building Material Machinaries",
+        "Cleaning Equipments",
+        "Electronic Product Machinaries",
+        "Automotive Parts and Accessories"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Consumer Electronics and Home Appliances",
+      "subCategories": [
+        "Camera, Photo & Accessories",
+        "Chargers, Batteries & Power Supplies",
+        "Computer Hardwares and Softwares",
+        "Mobile Phone Accessories",
+        "Air Conditioning Appliances",
+        "Room Heater",
+        "Home Appliance Parts"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Apparel & Fashion Accessories",
+      "subCategories": [
+        "Mens' Clothing",
+        "Womens' Clothing",
+        "Sports Ware",
+        "Belts & Accessories",
+        "Ear Muffs",
+        "Gloves & Mittens",
+        "Hair Accessories",
+        "Hats & Caps",
+        "Other Fashion Accessories"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Home & Garden / Furniture",
+      "subCategories": [
+        "Aprons",
+        "Brooms & Dustpans",
+        "Buckets",
+        "Cleaning Brushes",
+        "Cleaning Cloths",
+        "Dusters",
+        "Household Chemicals",
+        "Other Household Cleaning Tools & Accessories",
+        "Oversleeves",
+        "Sponges & Scouring Pads",
+        "Squeegees",
+        "aste Bins"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Fabric & Textiles Raw Material",
+      "subCategories": [
+        "Down & Feather",
+        "Fabric",
+        "Fiber",
+        "Fur",
+        "Leather",
+        "Leather Product",
+        "Other Textiles & Leather Products",
+        "Textile Accessories",
+        "Down",
+        "Feather"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Beauty & Personal Care",
+      "subCategories": [
+        "Baby Care",
+        "Bath Supplies",
+        "Beauty Equipment",
+        "Body Art",
+        "Breast Care",
+        "False Eyelashes & Tools",
+        "Fragrance & Deodorant",
+        "Hair Care & Styling",
+        "Hair Extensions & Wigs"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Heath & Care",
+      "subCategories": [
+        "Animal & Veterinary",
+        "Chinese Medicine",
+        "Extract",
+        "Health Care Products",
+        "Household Medical Devices",
+        "Medical Consumables",
+        "Professional Medical Devices",
+        "Sex Products"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Office and School Supply",
+      "subCategories": [
+        "Art Supplies",
+        "Badge Holder & Accessories",
+        "Board",
+        "Board Eraser",
+        "Book Cover",
+        "Books",
+        "Calculator",
+        "Calendar",
+        "Art Sets",
+        "Calligraphy Brushes"
+      ]
+    }
+  ]
+}

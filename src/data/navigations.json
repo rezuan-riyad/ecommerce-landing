@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "All Shops"
+    },
+    {
+      "id": 3,
+      "title": "Ready To Ship"
+    },
+    {
+      "id": 4,
+      "title": "Trade Shows"
+    },
+    {
+      "id": 5,
+      "title": "Marchent Zone"
+    },
+    {
+      "id": 2,
+      "title": "Sell on Ehat",
+      "subCat": [
+        "North Bengal",
+        "For Dhaka",
+        "For Chittagong",
+        "Partner Programe"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Help",
+      "subCat": [
+        "For Buyers",
+        "For Suppliers",
+        "Submit a Despute",
+        "Report Abuse"
+      ]
+    }
+  ]
+}

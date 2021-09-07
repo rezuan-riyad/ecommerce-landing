@@ -1,0 +1,76 @@
+{
+  "slideItemsLarge": [
+    {
+      "bgColor": "#FBE7C6",
+      "title": "Slide One",
+      "subtitle": "Subtitle for slide one."
+    },
+    {
+      "bgColor": "#B4F8C8",
+      "title": "Slide Two",
+      "subtitle": "Subtitle for slide two."
+    },
+    {
+      "bgColor": "#A0E7E5",
+      "title": "Slide Three",
+      "subtitle": "Subtitle for slide three."
+    },
+    {
+      "bgColor": "#FFAEBC",
+      "title": "Slide Four",
+      "subtitle": "Subtitle for slide four."
+    }
+  ],
+  "slideItems2": [
+    {
+      "bgColor": "#41729F",
+      "title": "Slide One Small",
+      "subtitle": "Subtitle for slide one.",
+      "small": true
+    },
+    {
+      "bgColor": "#5885AF",
+      "title": "Slide Two Small",
+      "subtitle": "Subtitle for slide two.",
+      "small": true
+    },
+    {
+      "bgColor": "#274472",
+      "title": "Slide Three Small",
+      "subtitle": "Subtitle for slide three.",
+      "small": true
+    },
+    {
+      "bgColor": "#C3E0E5",
+      "title": "Slide Four Small",
+      "subtitle": "Subtitle for slide four.",
+      "small": true
+    }
+  ],
+  "slideItems3": [
+    {
+      "bgColor": "#274472",
+      "title": "Slide Three Small",
+      "subtitle": "Subtitle for slide three.",
+      "small": true
+    },
+    {
+      "bgColor": "#C3E0E5",
+      "title": "Slide Four Small",
+      "subtitle": "Subtitle for slide four.",
+      "small": true
+    },
+    {
+      "bgColor": "#41729F",
+      "title": "Slide One Small",
+      "subtitle": "Subtitle for slide one.",
+      "small": true
+    },
+    {
+      "bgColor": "#5885AF",
+      "title": "Slide Two Small",
+      "subtitle": "Subtitle for slide two.",
+      "small": true
+    }
+  ]
+}
